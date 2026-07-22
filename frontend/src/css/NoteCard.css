@@ -1,0 +1,16 @@
+.note-card {
+    background-color: var(--note-default);
+    color: var(--text-main);
+    border-radius: 5px;
+    border: var(--border);
+    max-width: 250px;
+    min-width: 250px;
+    min-height: 100px;
+    padding: 10px;
+    white-space: pre-line;
+}
+
+.note-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
